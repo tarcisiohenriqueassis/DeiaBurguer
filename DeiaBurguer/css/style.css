@@ -1,0 +1,27 @@
+*{
+    margin: 0px 0px;
+    padding: 0px 0px;
+    outline: 0px;
+}
+
+body{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+header{
+    width: 100vw;
+    color: rgb(10, 9, 9);
+    background-color: rgb(235, 235, 19);
+}
+main{
+    margin: 50px auto;
+}
+.mesa{
+    width:300px;
+    color: #fff;
+    background-color: orange;
+    padding: 10px;
+    margin: 15px 0px;
+}
+mesa
